@@ -1,7 +1,8 @@
-# Ingredient Alchemy - The Ultimate Recipe Hub
+ **Ingredient Alchemy - The Ultimate Recipe Hub**
+ # Description
 Ingredient Alchemy is a beautifully designed, user-friendly platform that brings food lovers and home chefs together to explore, create, and organize their culinary adventures. Whether you're a seasoned cook or just getting started, this website provides an intuitive and engaging experience to elevate your cooking game.
 
-Key Features
+## Key Features
 🌟 Vast Recipe Collection – Discover thousands of mouthwatering recipes across various cuisines, diets, and difficulty levels. Whether you’re craving a quick snack or a gourmet meal, we’ve got something for everyone!
 
 📅 Meal Organizer – Plan your weekly meals effortlessly with the built-in Meal Organizer, ensuring balanced nutrition and hassle-free cooking schedules.
@@ -28,7 +29,7 @@ Key Features
 
 
 
-
+## Demo preview
 <!DOCTYPE html>
 <html lang="en">
 <head>
